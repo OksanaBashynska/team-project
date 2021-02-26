@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url /IceCream-by-Njeen/",
+    "predeploy": "npm run build -- --public-url /team-project/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
